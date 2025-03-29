@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 #### LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/KOKEONHO?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/KOKEONHO?ext=activity)
