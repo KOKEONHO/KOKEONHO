@@ -26,5 +26,11 @@ Here are some ideas to get you started:
 
 ### Algorithm
 
+#### Baekjoon
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhrjsgh97)](https://solved.ac/rhrjsgh97)
+
+#### LeetCode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/KOKEONHO)
