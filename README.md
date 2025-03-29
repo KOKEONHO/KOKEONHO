@@ -1,4 +1,4 @@
-## Hi there 👋
+## KOKEONHO
 
 <!--
 **KOKEONHO/KOKEONHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=KOKEONHO&show_icons=true&theme=radical" alt="KOKEONHO's github stats" /></a> 
+
+
+### Language
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOKEONHO)](https://github.com/anuraghazra/github-readme-stats)
+
+### Algorithm
+
